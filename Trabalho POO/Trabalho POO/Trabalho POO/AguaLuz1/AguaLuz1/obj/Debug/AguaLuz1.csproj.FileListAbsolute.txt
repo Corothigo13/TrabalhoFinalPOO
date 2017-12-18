@@ -1,0 +1,268 @@
+C:\Users\GABRIELA\Desktop\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.exe.config
+D:\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.exe.config
+D:\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.exe
+D:\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.pdb
+D:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csprojResolveAssemblyReference.cache
+D:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Agua.resources
+D:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Form1.resources
+D:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Luz.resources
+D:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Properties.Resources.resources
+D:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csproj.GenerateResource.Cache
+D:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csproj.CoreCompileInputs.cache
+D:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.exe
+D:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.pdb
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.exe.config
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.pdb
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.exe
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.pdb
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csprojResolveAssemblyReference.cache
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Agua.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Form1.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Luz.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Properties.Resources.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csproj.GenerateResource.Cache
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.exe
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.exe.config
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.exe
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.pdb
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Agua.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastrarConsumo_Energia.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroConsumo_Agua.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPF_Agua.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPF_Energia.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPJ_Agua.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPJ_Energia.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Luz.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csproj.GenerateResource.Cache
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.exe
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.pdb
+C:\Users\Gabi Putriste\Downloads\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.exe.config
+C:\Users\Gabi Putriste\Downloads\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.exe
+C:\Users\Gabi Putriste\Downloads\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.pdb
+C:\Users\Gabi Putriste\Downloads\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.exe
+C:\Users\Gabi Putriste\Downloads\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.pdb
+C:\Users\Gabi Putriste\Downloads\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csprojResolveAssemblyReference.cache
+C:\Users\Gabi Putriste\Downloads\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Agua.resources
+C:\Users\Gabi Putriste\Downloads\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastrarConsumo_Energia.resources
+C:\Users\Gabi Putriste\Downloads\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroConsumo_Agua.resources
+C:\Users\Gabi Putriste\Downloads\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPF_Agua.resources
+C:\Users\Gabi Putriste\Downloads\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPF_Energia.resources
+C:\Users\Gabi Putriste\Downloads\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPJ_Agua.resources
+C:\Users\Gabi Putriste\Downloads\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPJ_Energia.resources
+C:\Users\Gabi Putriste\Downloads\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Consultar_Agua.resources
+C:\Users\Gabi Putriste\Downloads\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Consulta_Energia.resources
+C:\Users\Gabi Putriste\Downloads\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Form1.resources
+C:\Users\Gabi Putriste\Downloads\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Luz.resources
+C:\Users\Gabi Putriste\Downloads\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Properties.Resources.resources
+C:\Users\Gabi Putriste\Downloads\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csproj.GenerateResource.Cache
+C:\Users\Gabi Putriste\Downloads\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.FazerOutraOperacao.resources
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.exe.config
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.exe
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.pdb
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.exe
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.pdb
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csprojResolveAssemblyReference.cache
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Agua.resources
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastrarConsumo_Energia.resources
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroConsumo_Agua.resources
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPF_Agua.resources
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPF_Energia.resources
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPJ_Agua.resources
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPJ_Energia.resources
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.FazerOutraOperacao.resources
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Luz.resources
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Properties.Resources.resources
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csproj.GenerateResource.Cache
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.AguaCli.resources
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.LuzCli.resources
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Login1.resources
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ConsumoUltimoMes.resources
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorContaUltimoMes.resources
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.VariacaoConsumoDoisMes.resources
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorMedio.resources
+F:\Trabalho poo grupo\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.MaiorValor.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.AguaCli.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.FazerOutraOperacao.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Login1.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.LuzCli.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ConsumoUltimoMesAgua.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.MaiorValorAgua.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorContaUltimoMesAgua.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorMedioAgua.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.VariacaoConsumoDoisMesAgua.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.exe.config
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.exe
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.pdb
+E:\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.exe.config
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.exe
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.pdb
+E:\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.exe
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csprojResolveAssemblyReference.cache
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Agua.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.AguaCli.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastrarConsumo_Energia.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroConsumo_Agua.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPF_Agua.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPF_Energia.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPJ_Agua.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPJ_Energia.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ConsumoUltimoMesAgua.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ConsumoUltimoMesEnergia.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.FazerOutraOperacao.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Login1.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Luz.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.LuzCli.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.MaiorValorAgua.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.MaiorValorEnergia.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Properties.Resources.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorContaUltimoMesAgua.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorContaUltimoMesEnergia.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorMedioAgua.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorMedioEnergia.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.VariacaoConsumoDoisMesAgua.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.VariacaoConsumoDoisMesEnergia.resources
+E:\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csproj.GenerateResource.Cache
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.exe
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csprojResolveAssemblyReference.cache
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Agua.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.AguaCli.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastrarConsumo_Energia.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroConsumo_Agua.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPF_Agua.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPF_Energia.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPJ_Agua.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPJ_Energia.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ConsumoUltimoMesAgua.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ConsumoUltimoMesEnergia.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.FazerOutraOperacao.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Login1.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Luz.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.LuzCli.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.MaiorValorAgua.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.MaiorValorEnergia.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Properties.Resources.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorContaUltimoMesAgua.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorContaUltimoMesEnergia.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorMedioAgua.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorMedioEnergia.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.VariacaoConsumoDoisMesAgua.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.VariacaoConsumoDoisMesEnergia.resources
+C:\Users\1067510.PUCMINAS\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csproj.GenerateResource.Cache
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.AguaCli.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastrarConsumo_Energia.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroConsumo_Agua.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPF_Agua.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPF_Energia.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPJ_Agua.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPJ_Energia.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ConsumoUltimoMesAgua.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ConsumoUltimoMesEnergia.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.FazerOutraOperacao.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Login1.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.LuzCli.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.MaiorValorAgua.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.MaiorValorEnergia.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorContaUltimoMesAgua.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorContaUltimoMesEnergia.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorMedioAgua.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorMedioEnergia.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.VariacaoConsumoDoisMesAgua.resources
+C:\Users\1067510\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.VariacaoConsumoDoisMesEnergia.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.exe.config
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.exe
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.pdb
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csprojResolveAssemblyReference.cache
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Agua.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.AguaCli.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastrarConsumo_Energia.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroConsumo_Agua.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPF_Agua.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPF_Energia.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPJ_Agua.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPJ_Energia.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ConsumoUltimoMesAgua.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ConsumoUltimoMesEnergia.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.FazerOutraOperacao.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Login1.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Luz.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.LuzCli.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.MaiorValorAgua.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.MaiorValorEnergia.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Properties.Resources.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorContaUltimoMesAgua.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorContaUltimoMesEnergia.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorMedioAgua.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorMedioEnergia.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.VariacaoConsumoDoisMesAgua.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.VariacaoConsumoDoisMesEnergia.resources
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csproj.GenerateResource.Cache
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csproj.CoreCompileInputs.cache
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.exe
+C:\Users\matma\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.pdb
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ConsumoUltimoMesEnergia.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.MaiorValorEnergia.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorContaUltimoMesEnergia.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorMedioEnergia.resources
+C:\Users\Thiago\Desktop\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.VariacaoConsumoDoisMesEnergia.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.exe.config
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.exe
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.pdb
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.exe
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csprojResolveAssemblyReference.cache
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Agua.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.AguaCli.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastrarConsumo_Energia.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroConsumo_Agua.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPF_Agua.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPF_Energia.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPJ_Agua.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPJ_Energia.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ConsumoUltimoMesAgua.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ConsumoUltimoMesEnergia.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.FazerOutraOperacao.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Login1.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Luz.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.LuzCli.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.MaiorValorAgua.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.MaiorValorEnergia.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Properties.Resources.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorContaUltimoMesAgua.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorContaUltimoMesEnergia.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorMedioAgua.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorMedioEnergia.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.VariacaoConsumoDoisMesAgua.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.VariacaoConsumoDoisMesEnergia.resources
+C:\Users\1067510\Desktop\Trabalho POO\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csproj.GenerateResource.Cache
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.exe.config
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.exe
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\bin\Debug\AguaLuz1.pdb
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csprojResolveAssemblyReference.cache
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Agua.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.AguaCli.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastrarConsumo_Energia.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroConsumo_Agua.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPF_Agua.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPF_Energia.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPJ_Agua.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.CadastroPJ_Energia.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ConsumoUltimoMesAgua.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ConsumoUltimoMesEnergia.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.FazerOutraOperacao.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Login1.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Luz.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.LuzCli.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.MaiorValorAgua.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.MaiorValorEnergia.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.Properties.Resources.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorContaUltimoMesAgua.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorContaUltimoMesEnergia.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorMedioAgua.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.ValorMedioEnergia.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.VariacaoConsumoDoisMesAgua.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.VariacaoConsumoDoisMesEnergia.resources
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csproj.GenerateResource.Cache
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.csproj.CoreCompileInputs.cache
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.exe
+F:\Trabalho POOLab\Trabalho POO\AguaLuz1\AguaLuz1\obj\Debug\AguaLuz1.pdb
